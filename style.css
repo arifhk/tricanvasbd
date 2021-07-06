@@ -1,5 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
+    color:  blueviolet;
+
 }
 
 h1{
@@ -7,7 +9,16 @@ h1{
     font-size: 50px;
 }
 
+p{
+    color: lightslategrey;
+    font-weight: bold;
+}
+
 .blue-color{
     color:blue;
-    
+
+}
+
+section{
+    display: flex;
 }

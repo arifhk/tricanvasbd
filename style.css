@@ -22,3 +22,21 @@ p{
 section{
     display: flex;
 }
+
+.width-reduce{
+    width: 60%;
+    padding-left: 8%;
+}
+
+.width-reduce img{
+width: 90%;
+padding-top: 5%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+}
